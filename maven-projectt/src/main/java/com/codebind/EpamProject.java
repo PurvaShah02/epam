@@ -2,6 +2,6 @@ package com.codebind;
 
 public class EpamProject {
 	public String Project() {
-		return "Epam Project";
+		return "Epam is Fun";
 	}
 }
